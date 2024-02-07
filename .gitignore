@@ -1,3 +1,6 @@
+**/data/*
+Multi-Class Prediction of Obesity Risk/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
