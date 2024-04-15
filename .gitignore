@@ -1,6 +1,6 @@
 **/data/*
 */catboost_info/*
-
+*/AutogluonModels/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,7 +1,13 @@
+ipykernel
+jupyter
 numpy
 scipy
 pandas
 matplotlib
+seaborn
+optuna
+featuretools
 scikit-learn
-ipykernel
-jupyter
+xgboost
+catboost
+autogluon
