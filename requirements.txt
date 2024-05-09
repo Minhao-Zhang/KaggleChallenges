@@ -12,3 +12,4 @@ xgboost
 catboost
 autogluon
 polars
+cupy-cuda12x
